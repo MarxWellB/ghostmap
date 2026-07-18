@@ -10,7 +10,6 @@ file by file.
 
 **[Install V1 →](https://marketplace.visualstudio.com/items?itemName=Ghostmap.ghostmap)** &nbsp;·&nbsp;
 **[Explore the beta ↓](#-private-beta)** &nbsp;·&nbsp;
-**[Read the architecture →](docs/ARCHITECTURE.md)**
 
 ---
 
